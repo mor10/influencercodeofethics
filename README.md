@@ -1,2 +1,25 @@
-# influencercodeofethics
-Code of Ethics for online influencers
+# Preamble
+As an Influencer – [a person who is able to generate interest in something (such as a consumer product) by posting about it on social media](https://www.merriam-webster.com/dictionary/influencer) as a blogger, a video blogger, a podcaster, a microblogger or a general social media participant – you play an important role in public knowledge creation and discussion. This role carries with it a responsibility to be fair, honest, truthful, and respectful toward your fellow members of society and toward facts. The content you create today can outlast both the content’s relevance and your own lifetime and it is of vital importance it be a truthful representation of the topic at hand for those who access it today and those who access it in the future. 
+
+Above all else your job as an Influencer is to present fact as fact and opinion as opinion. 
+
+To this end we have created this [Influencer Code of Ethics](https://github.com/mor10/influencercodeofethics) which outlines ethical guidelines for Influencers. The Influencer Code of Ethics is inspired by the [Code of Ethics for Bloggers, Social Media and Content Creators](https://github.com/mor10/codeofethics) which in turn is closely based on the [Code of Ethics for the Norwegian Press](https://presse.no/pfu/etiske-regler/vaer-varsom-plakaten/vvpl-engelsk/) published by the Norwegian Press Association and adhered to by all members of the Norwegian press.
+
+This is a work in progress. Contributions welcome.
+
+# Influencer Code of Ethics
+1. **It is your right to voice your opinion.** Freedom of Speech, Information, Publication and Expression are basic elements of a democracy. It is your obligation to use and protect these rights at all times.
+2. **Be critical of everything, even yourself.** You are part of the creation of free knowledge and discussion. It is your obligation to shed critical light on what goes on in society as well as how Influencers, including yourself, are presenting and influencing these events.
+3. **Use your power to protect.** You can shine a light on injustices and neglect perpetrated against individuals and groups. Use this power wisely.
+4. **Tell the truth at all times.** With great power comes great responsibility. Words and images are powerful weapons that should be used with the utmost care. When publishing content, present the facts as they are, even if you disagree with them.
+5. **Present your opinion as your opinion.** Your opinion and interpretation of events is important and should be shared but must never be confused with hard facts or data. When voicing your own or someone else’s opinion or interpretation, state it as such. Never present opinion, interpretation or conjecture as fact.
+6. **State your allegiances to stay independent.** To preserve your own trustworthiness and integrity as an Influencer, always state any relation - financial, personal, political or otherwise - to the subject or topic you are presenting. Bias, even if only perceived as such, discredits you and your content unless it is clearly stated. If you have a political affiliation that colours your judgment, say so; if you are employed by or received money from the subject you are covering, say so; if you were given gifts, samples, temporary access, or other preferential treatment in return for a review or commentary, say so. By stating these facts of allegiance, your opinions gain informational value that would otherwise be lost in suspicion of bias.
+7. **Reveal your sources unless doing so can harm your sources.** Always reveal your sources to ensure transparency unless doing so may put the source in harm's way. In ensuring transparency you lend credibility to your own content and provide others the capability to further pursue the facts of the matter.
+8. **Be critical of your sources and seek independent verification.** Even if you are ethical and unbiased there is no guarantee your sources are. Before presenting information as fact, check the credibility of your sources and seek independent verification of facts. If none can be found, state so clearly.
+9. **Give credit where credit is due.** Give proper attribution when using, quoting, or basing your content on the work of others. Present quotes as quotes, provide links to original materials, give media (audio, video, photo, graphic) credit to the original creator etc.
+10. **Preserve the intended meaning of a given statement.** When quoting or paraphrasing a statement, ensure the intended meaning is communicated. Never edit or change a statement in such a way that the intended meaning is changed.
+11. **Give your opponent a chance to respond.** The foundation of an open discussion is to give either side an opportunity to voice their opinion. Always provide an opportunity for your opponent to present the case of the opposing side.
+12. **Admit and correct your mistakes.** When an inaccuracy or error in your content is discovered by you or someone else, correct it immediately and announce that you have done so. The onus is on you to ensure those who base their opinions and other content creation on incorrect information you’ve published have a chance to make corrections to their content. It is your duty to uphold the truth and present fact even if that means admitting you were wrong.
+
+# Credits
+The Influencer Code of Ethics was originally written by [Morten Rand-Hendriksen](https://mor10.com).
