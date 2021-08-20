@@ -5,8 +5,6 @@ Above all else your job as an Influencer is to present fact as fact and opinion 
 
 To this end we have created this [Influencer Code of Ethics](https://github.com/mor10/influencercodeofethics) which outlines ethical guidelines for Influencers. The Influencer Code of Ethics is inspired by the [Code of Ethics for Bloggers, Social Media and Content Creators](https://github.com/mor10/codeofethics) which in turn is closely based on the [Code of Ethics for the Norwegian Press](https://presse.no/pfu/etiske-regler/vaer-varsom-plakaten/vvpl-engelsk/) published by the Norwegian Press Association and adhered to by all members of the Norwegian press.
 
-This is a work in progress. Contributions welcome.
-
 # Influencer Code of Ethics
 1. **It is your right to voice your opinion.** Freedom of Speech, Information, Publication and Expression are basic elements of a democracy. It is your obligation to use and protect these rights at all times.
 2. **Be critical of everything, even yourself.** You are part of the creation of free knowledge and discussion. It is your obligation to shed critical light on what goes on in society as well as how Influencers, including yourself, are presenting and influencing these events.
