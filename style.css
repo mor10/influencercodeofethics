@@ -41,13 +41,39 @@ body {
     
 }
 
+.logo {
+    width: clamp(1.3rem, 5.5vw, 2.2rem);
+}
+
 .header::after,
-.thecode::after {
+.thecode::before,
+.thecode::after,
+.footer::before {
     display: block;
-    margin: 2rem 0;
+    margin: 4rem 0;
     content: "· - — - ·";
     text-align: center;
     font-size: 80%;
+}
+
+.quote {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote p {
+    margin: 0;
+    padding: 0;
+    max-width: 40ch;
+    text-align: center;
+    font-style: italic;
+}
+
+.section-header {
+    text-align: center;
 }
 
 ol {
@@ -58,7 +84,7 @@ ol {
 li::after {
     display: block;
     margin: 1.4rem 0 1.4rem calc(clamp(1.3rem, 5.5vw, 2.2rem) * -1);
-    content: "- — § — -";
+    content: "· - § - ·";
     text-align: center;
     font-size: 80%;
 }
@@ -77,13 +103,6 @@ strong::after {
     content: "";
 }
 
-.footer::before {
-    display: block;
-    margin: 4rem 0;
-    content: "· - — - ·";
-    text-align: center;
-    font-size: 80%;
-}
 .footer {
     margin-block-end: 6rem;
     text-align: center;
