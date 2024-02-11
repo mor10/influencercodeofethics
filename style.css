@@ -1,9 +1,31 @@
+:root {
+    --color-font: hsl(0, 0%, 0%);
+    --color-background: hsl(0, 0%, 100%);
+    --color-highlight: yellow;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-font: hsl(0, 0%, 100%);
+        --color-background: hsl(0, 0%, 10%);
+        --color-highlight: hsl(31, 100%, 50%);
+    }
+    a {
+        color: hsl(212, 100%, 67%);
+    }
+    a:visited {
+        color: hsl(253, 100%, 81%);
+    }
+  }
+
 body {
     font-family: 'Special Elite', monospace;
     font-size: 100%;
     font-size: 1.2rem;
     font-size: clamp(1rem, 4vw, 1.6rem);
     line-height: 1.4;
+    color: var(--color-font);
+    background-color: var(--color-background);
 }
 
 .container {
@@ -13,13 +35,14 @@ body {
 }
 
 .header {
+    margin-block-start: 6rem;
+    margin-block-end: 2rem;
     text-align: center;
-    margin-bottom: 2rem;
+    
 }
 
 .header::after,
-.thecode::after,
-.preamble::after {
+.thecode::after {
     display: block;
     margin: 2rem 0;
     content: "· - — - ·";
@@ -46,10 +69,26 @@ li:last-child::after {
 
 strong {
     display: block-inline;
-    background-color: yellow;
+    background-color: var(--color-highlight);
 }
 
 strong::after {
     display: block;
     content: "";
+}
+
+.footer::before {
+    display: block;
+    margin: 4rem 0;
+    content: "· - — - ·";
+    text-align: center;
+    font-size: 80%;
+}
+.footer {
+    margin-block-end: 6rem;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 75%;
 }
