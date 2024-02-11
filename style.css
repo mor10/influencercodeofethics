@@ -45,6 +45,14 @@ body {
     width: clamp(1.3rem, 5.5vw, 2.2rem);
 }
 
+.cls-1{
+    fill:none;
+    stroke:var(--color-font);
+    stroke-linecap:round;
+    stroke-linejoin:round;
+    stroke-width:45px
+}
+
 .header::after,
 .thecode::before,
 .thecode::after,
